@@ -1,6 +1,5 @@
-package com.gementar.learnspringframework;
+package com.gementar.learnspringframework.game;
 
-import com.gementar.learnspringframework.game.*;
 import org.springframework.context.annotation.*;
 
 @Configuration
